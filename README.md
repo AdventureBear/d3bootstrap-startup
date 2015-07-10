@@ -9,11 +9,11 @@ This was put together to save me time when starting d3 projects locally from scr
 
 The directory structure looks like this
 
-index.html
-css
--style.css
-js
--app.js
--d3.min.js
+*index.html
+*css
+  *style.css
+*js
+  *app.js
+  *d3.min.js
 
 
